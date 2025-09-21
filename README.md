@@ -1,9 +1,9 @@
 # Home Credit Default Risk
 
-Theis project aims to manipulate Machine Learning Algotithm Predict the default probability of the client, based in multiple datasets with the client's credit record.
+This project aims to manipulate Machine Learning models to predict the default probability of clients, based on multiple datasets showcasing the clients' credit record.
 
 # Skills
-Python with sklearn | Feature Engineering | Data Preprocessing | Exploratory Data Analysis 
+Python | Feature Engineering | Exploratory Data Analysis & Data Preprocessing | Machine Learning
 
 # Implementation and Methodology
 - **Feature Engineering**: Aggregation, merge and selection of columns based on the feature properties
@@ -15,6 +15,8 @@ Python with sklearn | Feature Engineering | Data Preprocessing | Exploratory Dat
 
 # Performance
 - The best model LightGBM achieved 91% accuracy and a 0.76 AUC score.
+- The comparison graph is shown here:
+  ![performance_comparison](asset/performance_comparison.png)
 
 # Source:
 - Project with datasets from Kaggle https://www.kaggle.com/competitions/home-credit-default-risk
